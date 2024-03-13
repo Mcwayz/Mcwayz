@@ -60,10 +60,6 @@ src="https://img.shields.io/twitter/follow/JMcwayz"
 <img height=170 align="center" src="https://streak-stats.demolab.com/?user=Mcwayz&theme=dark#gh-dark-mode-only" alt="Niza's GitHub Stats" />
 </a>
 </p>
- 
-<a href="https://github.com/Mcwayz/github-readme-stats">
-<img height=164 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mcwayz&theme=dark#gh-dark-mode-only" />
-</a>
    
 
 # Developer profiles
