@@ -1,13 +1,13 @@
 # Hello there 👋
 
-- 👀 I am Mcwayz,
-- 🚀 Founder of CyberCity | Google for Developers Explorer | Turning Visions into Code | Let's Innovate Together! 🌟
-- 💻 MERN Stack Developer 🛠️ | Backend-End Dev @Izyane 🔍 | Crafting Web Experiences with Passion 💡 | Let's Code the Future!"
+- 👀 I am Niza Tembo,
+- 🚀 Founder of CleanCity | Google for Developers Explorer | Turning Visions into Code | Let's Innovate Together! 🌟
+- 💻 Django |Java|PHP| Developer 🛠️ | Backend-End Dev @Izyane 🔍 | Crafting Web Experiences with Passion 💡 | Let's Code the Future!"
 - 👨‍💻 Techie by day, Google for Developers enthusiast by night. I thrive on turning ideas into reality using the magic of Google's tools. From coding with Android Studio to harnessing the power of Google Cloud, I'm all about efficient, innovative solutions. Let's geek out together!"
 - 📸 Adventurous Explorer 🌄 | Freezing Moments with my Google Pixel 📷 | Capturing Life's Beauty One Click at a Time 🌍 | Embracing Thrills and Adventures with Every Shot 🌟
   
 <a href="[https://twitter.com/JMcwayz]" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mayhem_mgz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/JMcwayzlogo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 # Tech Stack
