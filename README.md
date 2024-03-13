@@ -57,7 +57,7 @@ src="https://img.shields.io/twitter/follow/JMcwayz"
 <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Mcwayz&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/Mcwayz/github-readme-stats#gh-dark-mode-only">
-<img height=170 align="center" src="https://streak-stats.demolab.com/?user=Mcwayz&theme=dark#gh-dark-mode-only" alt="Mwangilwa's GitHub Stats" />
+<img height=170 align="center" src="https://streak-stats.demolab.com/?user=Mcwayz&theme=dark#gh-dark-mode-only" alt="Niza's GitHub Stats" />
 </a>
 </p>
  
@@ -70,13 +70,6 @@ src="https://img.shields.io/twitter/follow/JMcwayz"
 </a>
 </p>
 
-<a href="https://github.com/Mcwayz/solid">
-<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcwayz&repo=solid&theme=dark#gh-dark-mode-only" />
-</a>
-  
-<a href="https://github.com/mwan9ilwa/mayhem">
-<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcwayz&repo=mayhem&theme=dark#gh-dark-mode-only" />
-</a>    
 
 # Developer profiles
 <p align="left">
