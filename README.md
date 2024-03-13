@@ -7,7 +7,7 @@
 - 📸 Adventurous Explorer 🌄 | Freezing Moments with my Google Pixel 📷 | Capturing Life's Beauty One Click at a Time 🌍 | Embracing Thrills and Adventures with Every Shot 🌟
   
 <a href="[https://twitter.com/JMcwayz]" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JMcwayzlogo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/JMcwayz"
 /></a>
 
 # Tech Stack
