@@ -25,8 +25,8 @@ src="https://img.shields.io/twitter/follow/JMcwayz"
   <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
   </a>  
-  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" />
+  <a href="https://www.django.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Gatsby" />
   </a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
@@ -53,34 +53,34 @@ src="https://img.shields.io/twitter/follow/JMcwayz"
 
 # GitHub Stats
  
-<a href="https://github.com/mwan9ilwa/github-readme-stats#gh-dark-mode-only" >
-<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=mwan9ilwa&show_icons=true&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/Mcwayz/github-readme-stats#gh-dark-mode-only" >
+<img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Mcwayz&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/mwan9ilwa/github-readme-stats#gh-dark-mode-only">
-<img height=170 align="center" src="https://streak-stats.demolab.com/?user=mwan9ilwa&theme=dark#gh-dark-mode-only" alt="Mwangilwa's GitHub Stats" />
+<a href="https://github.com/Mcwayz/github-readme-stats#gh-dark-mode-only">
+<img height=170 align="center" src="https://streak-stats.demolab.com/?user=Mcwayz&theme=dark#gh-dark-mode-only" alt="Mwangilwa's GitHub Stats" />
 </a>
 </p>
  
-<a href="https://github.com/mwan9ilwa/github-readme-stats">
-<img height=164 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mwan9ilwa&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/Mcwayz/github-readme-stats">
+<img height=164 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Mcwayz&theme=dark#gh-dark-mode-only" />
 </a>
    
-<a href="https://github.com/mwan9ilwa/github-readme-stats">
-<img height=164 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwan9ilwa&layout=compact&theme=dark#gh-dark-mode-only">
+<a href="https://github.com/Mcwayz/github-readme-stats">
+<img height=164 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mcwayz&layout=compact&theme=dark#gh-dark-mode-only">
 </a>
 </p>
 
-<a href="https://github.com/mwan9ilwa/solid">
-<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=solid&theme=dark#gh-dark-mode-only" />
+<a href="https://github.com/Mcwayz/solid">
+<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcwayz&repo=solid&theme=dark#gh-dark-mode-only" />
 </a>
   
 <a href="https://github.com/mwan9ilwa/mayhem">
-<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mwan9ilwa&repo=mayhem&theme=dark#gh-dark-mode-only" />
+<img width=420 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mcwayz&repo=mayhem&theme=dark#gh-dark-mode-only" />
 </a>    
 
 # Developer profiles
 <p align="left">
-<a href="https://g.dev/mwan9ilwa" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/developers/images/lockup-new.svg" alt="mwan9ilwa" height="36" width="200" /></a> &emsp;
+<a href="https://g.dev/Mcwayz" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/developers/images/lockup-new.svg" alt="Mcwayz" height="36" width="200" /></a> &emsp;
 </p>
 
 # Operating System
@@ -92,4 +92,4 @@ src="https://img.shields.io/twitter/follow/JMcwayz"
 # Profile Views
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/{mwan9ilwa}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Mcwayz}/count.svg)
