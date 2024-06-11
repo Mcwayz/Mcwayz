@@ -4,7 +4,6 @@
 - 🚀 Founder of CyberCity | Google for Developers Explorer | Turning Visions into Code | Let's Innovate Together! 🌟
 - 💻 Python | Java | PHP| Developer 🛠️ | Backend-End Dev @Izyane 🔍 | Crafting Web Experiences with Passion 💡 | Let's Code the Future!"
 - 👨‍💻 Techie by day, Google for Developers enthusiast by night. I thrive on turning ideas into reality using the magic of Google's tools. From coding with Android Studio to harnessing the power of Google Cloud, I'm all about efficient, innovative solutions. Let's geek out together!"
-- 📸 Adventurous Explorer 🌄 | Freezing Moments with my Google Pixel 📷 | Capturing Life's Beauty One Click at a Time 🌍 | Embracing Thrills and Adventures with Every Shot 🌟
   
 <a href="[https://twitter.com/JMcwayz]" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JMcwayz"
@@ -62,7 +61,6 @@ src="https://img.shields.io/twitter/follow/JMcwayz"
 </a>
 </p>
    
-
 # Developer profiles
 <p align="left">
 <a href="https://g.dev/Mcwayz" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/developers/images/lockup-new.svg" alt="Mcwayz" height="36" width="200" /></a> &emsp;
