@@ -2,8 +2,8 @@
 
 - 👀 I am Niza Tembo,
 - 🚀 Founder of CyberCity | Google for Developers Explorer | Turning Visions into Code | Let's Innovate Together! 🌟
-- 💻 Python | Java | PHP| Developer 🛠️ | Backend-End Dev @Izyane 🔍 | Crafting Web Experiences with Passion 💡 | Let's Code the Future!"
-- 👨‍💻 Techie by day, Google for Developers enthusiast by night. I thrive on turning ideas into reality using the magic of Google's tools. From coding with Android Studio to harnessing the power of Google Cloud, I'm all about efficient, innovative solutions. Let's geek out together!"
+- 💻 Python | Java | PHP| Developer 🛠️ | Backend-End Dev @Izyane 🔍 | Crafting Web Experiences with Passion 💡 | Let's Code the Future!
+- 👨‍💻 Techie by day, Google for Developers enthusiast by night. I thrive on turning ideas into reality using the magic of Google's tools. From coding with Android Studio to harnessing the power of Google Cloud, I'm all about efficient, innovative solutions. Let's geek out together!
   
 <a href="[https://twitter.com/JMcwayz]" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/JMcwayz"
