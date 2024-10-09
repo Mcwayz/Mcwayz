@@ -63,7 +63,7 @@ src="https://img.shields.io/twitter/follow/JMcwayz"
    
 # Developer profiles
 <p align="left">
-<a href="https://g.dev/Mcwayz" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/developers/images/lockup-new.svg" alt="Mcwayz" height="36" width="200" /></a> &emsp;
+<a href="https://g.dev/niza_tembo" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v85f54088ef7777280c83d69d659572c5ef9931b8141761ffdab023f32799d208/developers/images/lockup-new.svg" alt="Mcwayz" height="36" width="200" /></a> &emsp;
 </p>
 
 # Operating System
