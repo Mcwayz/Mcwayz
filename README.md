@@ -48,9 +48,6 @@ src="https://img.shields.io/twitter/follow/JMcwayz"
     <img src="https://img.icons8.com/?size=1x&id=13441&format=png" width="36" height="36" alt="Python" />
   </a>
 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=1x&id=13441&format=png" width="36" height="36" alt="PHP" />
-  </a>
 
   
 </p>
